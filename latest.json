@@ -1,8 +1,8 @@
 {
-  "version": "v2.10.35",
-  "url": "https://github.com/AlexOfTheForest/forest-engine-releases/releases/download/v2.10.35/ForestEngine-2.10.35.zip",
-  "sha256": "bb0a0200b51518726a2e3c489aa223730eb219b5c2929a11faff59481dddc1ea",
-  "size": 4636808,
-  "notes": "No release notes were written for this version.",
+  "version": "v2.10.36",
+  "url": "https://github.com/AlexOfTheForest/forest-engine-releases/releases/download/v2.10.36/ForestEngine-2.10.36.zip",
+  "sha256": "c099e0e4a80504433a4245b63a3e49fc94f88c0d21ff78da8c2384411b7ea4fb",
+  "size": 4685151,
+  "notes": "- The Content Browser: a window onto the resource catalogue. (Issue #3)",
   "released": "2026-10-18"
 }
