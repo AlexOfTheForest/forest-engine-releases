@@ -1,8 +1,8 @@
 {
-  "version": "v2.10.37",
-  "url": "https://github.com/AlexOfTheForest/forest-engine-releases/releases/download/v2.10.37/ForestEngine-2.10.37.zip",
-  "sha256": "4a1b9401cf8b61183a93983483ab12934e9b93384dfa88a4807d0ca816fd8bbc",
-  "size": 4689166,
-  "notes": "No release notes were written for this version.",
+  "version": "v2.10.38",
+  "url": "https://github.com/AlexOfTheForest/forest-engine-releases/releases/download/v2.10.38/ForestEngine-2.10.38.zip",
+  "sha256": "b5e72ac18fb6d2016907925a1c480027bea6db2733fec6b6293cf11fb101173c",
+  "size": 4700691,
+  "notes": "- Setup.exe: one file that checks the PC and installs. (Issue #570)",
   "released": "2026-10-19"
 }
