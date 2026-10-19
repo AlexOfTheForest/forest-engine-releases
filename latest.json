@@ -1,8 +1,8 @@
 {
-  "version": "v2.10.40",
-  "url": "https://github.com/AlexOfTheForest/forest-engine-releases/releases/download/v2.10.40/ForestEngine-2.10.40.zip",
-  "sha256": "ab67bfa1982ee466eab93f898b3df8cf765882e8306a28102eec8ba436c5cfbe",
-  "size": 4702193,
+  "version": "v2.10.41",
+  "url": "https://github.com/AlexOfTheForest/forest-engine-releases/releases/download/v2.10.41/ForestEngine-2.10.41.zip",
+  "sha256": "ff5dc78a35970bd5916c0f81c5a85902f5b20c0ddfc48b3420dc810862fff284",
+  "size": 4702642,
   "notes": "No release notes were written for this version.",
   "released": "2026-10-19"
 }
